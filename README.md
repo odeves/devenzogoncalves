@@ -39,3 +39,5 @@
 <picture>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </picture>
+
+![snake gif](https://github.com/devenzogoncalves/devenzogoncalves/blob/output/github-contribution-grid-snake.svg)
